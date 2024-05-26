@@ -1,3 +1,1 @@
-helo
-helo2
-helo3
+Get-Remove "Microsoft.SkypeApp"
