@@ -1,1 +1,1 @@
-Get-Remove "Microsoft.SkypeApp"
+Get-AppxPackage -allusers Microsoft.SkypeApp | Remove-AppxPackage
