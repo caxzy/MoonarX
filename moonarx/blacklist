@@ -1,2 +1,1 @@
-Get-AppxPackage -AllUsers *Facebook* | Remove-AppxPackage
-Get-AppxPackage -allusers Microsoft.SkypeApp | Remove-AppxPackage
+Get-AppxPackage -AllUsers -Name "Microsoft.SkypeApp" Remove-AppxPackage
